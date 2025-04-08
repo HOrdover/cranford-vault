@@ -13,7 +13,7 @@ CRANFORD chapter 4
 Per Erik
 
 ## Raffle Item
-MAY RAFFLE - Sir Walter Scott Cross stitch from Rebecca
+MAY RAFFLE - Sir Walter Scott Cross stitch from Rebecca S!
 
 ## Crafty Chat Notes
 Gardening Olla DIY video - https://youtu.be/Wz-jj170EYw?si=eGnaG7zrsfoqeDMu
