@@ -37,3 +37,12 @@ This image automatically updates to reflect the current state of your latest pro
 ``` end
 
 
+**✅ Optional but recommended:**
+
+  
+
+If you want to _force_ a fresh Netlify deploy anytime (just in case), you can:
+
+cd ~/vaults/Cranford
+git commit --allow-empty -m "Trigger Netlify deploy"
+git push
