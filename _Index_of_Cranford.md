@@ -16,7 +16,7 @@ cd ~/vaults/Cranford
 then
 
 git add .
-git commit -m "Your update message here"
+git commit -m "added an ! after Rebecca in 004, fixed the hat image, added deploy status badge to GitHub README.md file"
 git push
 
 | **Goal**                    | **Where to** cd      | **What to run**                                    |
@@ -26,3 +26,14 @@ git push
 | **Publish to Netlify**      | (Same as above)      | Just push from your vault—Netlify handles the rest |
 check netliify deployment here: https://app.netlify.com/sites/craftlit-cranford/deploys
 github https://github.com/HOrdover/cranford-vault
+
+
+### [Deploy status badge](https://app.netlify.com/sites/craftlit-cranford/configuration/general#deploy-status-badge)
+
+This image automatically updates to reflect the current state of your latest production deploy. To create a status badge for a deployed branch, add the `?branch=` query parameter to the badge URL. You can use the markdown snippet below to add it to your project README.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7313b0cb-128b-4e11-b425-b55088c13680/deploy-status)](https://app.netlify.com/sites/craftlit-cranford/deploys)
+```[![Netlify Status](https://api.netlify.com/api/v1/badges/7313b0cb-128b-4e11-b425-b55088c13680/deploy-status)](https://app.netlify.com/sites/craftlit-cranford/deploys)
+``` end
+
+
