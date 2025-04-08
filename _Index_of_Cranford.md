@@ -25,3 +25,4 @@ git push
 | **Preview changes locally** | cd ~/quartz          | npx quartz build --serve                           |
 | **Publish to Netlify**      | (Same as above)      | Just push from your vault—Netlify handles the rest |
 check netliify deployment here: https://app.netlify.com/sites/craftlit-cranford/deploys
+github https://github.com/HOrdover/cranford-vault
